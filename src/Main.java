@@ -13,7 +13,7 @@ public class Main {
         Maleta maleta5 = new Maleta(5.5);
         Maleta maleta6 = new Maleta(22.2);
         Maleta maleta7 = new Maleta(23.6);
-        //jbdfjvnsdkcv
+        //jbdfjvnsdk
         Maleta maleta8 = new Maleta(33.4);
         Maleta maleta9 = new Maleta(2000);
 
