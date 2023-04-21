@@ -85,7 +85,6 @@ public class Main {
         av.setTripulantes(tripulante4);
 
 
-
         av1.setPasajeros(p1);
         av1.setPasajeros(p2);
         av1.setPasajeros(p3);
